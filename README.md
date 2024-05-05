@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazumdarayush07" alt="mazumdarayush07" /></a> </p>
 
-- 🌱 I’m currently mastering **React.js**
+- 🌱 I’m currently mastering **Node.js**
 
 - 💬 Ask me about **Core Java, JavaScript**
 
